@@ -1,5 +1,5 @@
-# DiceyGames
-Dice Game Mid-Project( Stella Lin &amp; Nahima Abea)
+//# DiceyGames//
+//Dice Game Mid-Project( Stella Lin &amp; Nahima Abea)//
 package midCourseProject;
 
 public class DiceGame {
